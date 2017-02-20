@@ -8,11 +8,13 @@
 
 `npm install --save react-navigation`
 
+`npm install --save nachos-ui`
+
 ### INITIAL COMPONENT SETUP
 
 ```
 mkdir src\components
 mkdir src\actions
 mkdir src\reducers
-
+new file:
 ```
